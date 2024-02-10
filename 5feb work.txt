@@ -1,0 +1,34 @@
+dialogBox Property -:-
+
+
+openFD.InitialDirectory = "C:\"               //open in a particular directory
+openFD.Title = "Open a Text File"             //Title of opendialog box
+openFD.Filter = "Text Files|*.txt"          // filter Property
+openFD.ShowDialog()                         //open dialogbox
+
+
+If you want to launch the Open File Dialog Box inside of your Documents folder, there is some special code for this (it's a bit for this page, though, and should be on one line):
+
+openFD.InitialDirectory = Environment.GetFolderPath( Environment.SpecialFolder.MyDocuments )
+
+Type of Programming Error -:-
+
+A Design-time error is also known as a syntax error. These occur when the environment you're programming in doesn't understand your code. These are easy to track down in VB.NET, because you get a blue wiggly line pointing them out. If you try to run the programme, you'll get a dialogue box popping up telling you that there were Build errors.
+
+Runtime errors are a lot harder to track down. As their name suggests, these errors occur when the programme is running. They happen when your programme tries to do something it shouldn't be doing. An example is trying to access a file that doesn't exist. Runtime errors usually cause your programme to crash. If and when that happens, you get the blame. After all, you're the programmer, and you should write code to trap runtime errors. If you're trying to open a database in a specific location, and the database has been moved, a Runtime error will occur. It's your job to predict a thing like this, and code accordingly.
+
+Logic errors also occur when the programme is running. They happen when your code doesn't quite behave the way you thought it would. A classic example is creating an infinite loop of the type "Do While x is greater than 10". If x is always going to be greater than 10, then the loop has no way to exit, and just keeps going round and round. Logic errors tend not to crash your programme. But they will ensure that it doesn't work properly.
+
+try ... Exception -:-
+
+VB.NET has a inbuilt class that deals with errors. The Class is called Exception. When an exception error is found, an Exception object is created. The coding structure VB.NET uses to deal with such Exceptions is called the Try … Catch structure.
+
+In the coding area for your button, type the word Try. Then hit the return key on your keyboard. VB.NET completes the rest of the structure for you:
+
+Try
+
+Catch ex As Exception
+
+End Try
+
+The Try word means "Try to execute this code". The Catch word means "Catch any errors here". The ex is a variable, and the type of variable it is is an Exception object.

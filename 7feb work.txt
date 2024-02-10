@@ -1,0 +1,12 @@
+Class & Objects -:-
+
+VB.NET is an Object Oriented programming language. The Objects referred to are created from something called a Class. You've already used Classes throughout this course. But we'll now have a closer look at them.
+
+VB.Net allows you many ways to connect to a database or a data source. The technology used to interact with a database or data source is called ADO.NET.
+
+The ADO parts stands for Active Data Objects which, admittedly, doesn’t explain much. But just like System was a Base Class (leader of a hierarchy, if you like), so is ADO. Forming the foundation of the ADO Base Class are five other major objects:
+			Connection
+			Command
+			DataReader
+			DataSet
+			DataAdapter

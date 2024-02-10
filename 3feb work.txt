@@ -1,0 +1,14 @@
+Private Sub btnZero_Click(sender As Object, e As EventArgs) _
+Handles btnZero.Click
+
+	txtDisplay.Text = btnZero.Text
+
+End Sub
+
+
+This code will transfer the Text Property of a Button called btnZero to the Text Property of a Textbox called txtDisplay.
+
+
+txtDisplay.Text = txtDisplay.Text & btnZero.Text   :-
+
+So now we're saying the textbox doesn't just contain the Text on the Button. It must also keep whatever is inside the textbox as well.

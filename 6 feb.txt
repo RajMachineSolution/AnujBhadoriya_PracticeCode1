@@ -1,0 +1,21 @@
+Chars is a method of the String variable type. You can use it on any length of string, not just a Char variable. And that's the difference between the two: Char is a variable type, while Chars is a method you can use on Strings.
+
+Chars works like this:
+
+	OneCharacter = FirstName.Chars(i)
+
+
+The InStr( ) method of string variables tells you what the position of one string is inside another. For example, if your string was "me@me.com" and you wanted to know if the string contained the @ symbol, you could use InStr( ) Method. You would use it like this
+
+FirstString = "me@me.com"
+SecondString = "@"
+
+position = InStr( FirstString, SecondString )
+
+Equals method -:-
+
+The Equals method is used to compare one string of text against another. If they're the same a value of True is returned, else it's False
+
+Replace method -:-
+
+You can replace text in one string with some other text. The process is fairly straightforward. Here's some code that uses replace.

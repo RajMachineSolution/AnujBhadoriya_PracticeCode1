@@ -1,0 +1,73 @@
+PSEUDOCODE OF UPDATE BUTTON -:
+
+
+1 process of update button :-
+	
+	a. define varible and store index of row & col
+	b. we click a particular row and  enter a text 
+	c. the text we just type is stored another variable
+        d. after that we add a for loop -:inside a loop
+		
+		. write a update query of sql and stored in mysqlcommand.commandText
+		. open a connection by sqlconnection.open()
+		.execute query by mysqlCommand.executeReader()
+		.and close reader and sqlconnection
+		.loop end
+
+PSEUDOCODE OF INSERT BUTTON (ADD) -:
+	a. define varible and store index of row & col
+	b. we click a particular row and  enter a text 
+	c. the text we just type is stored another variable
+        d. after that we add a for loop -:inside a loop
+		
+		. write ADD query of sql and stored in mysqlcommand.commandText
+		. open a connection by sqlconnection.open()
+		.execute query by mysqlCommand.executeReader()
+		.and close reader and sqlconnection
+		.loop end
+
+
+PSEUDOCODE OF DELETE BUTTON  -:
+
+	a. define varible and store index of row & col
+	b. we click a particular row and  enter a text 
+	c. the text we just type is stored another variable
+        d. after that we add a for loop -:inside a loop
+		
+		. write DELETE query of sql and stored in mysqlcommand.commandText
+		. open a connection by sqlconnection.open()
+		.execute query by mysqlCommand.executeReader()
+		.and close reader and sqlconnection
+		.loop end
+
+
+PSEUDOCODE OF SEARCH BUTTON  -:
+	a. define varible and store index of row & col
+	b. we click a particular row and  enter a text 
+	c. the text we just type is stored another variable
+        d. after that we add a for loop -:inside a loop
+		
+		. write SEARCH query of sql and stored in mysqlcommand.commandText
+		. open a connection by sqlconnection.open()
+		.execute query by mysqlCommand.executeReader()
+		.and close reader and sqlconnection
+		.loop end
+		.use method of messagebox.show() to show the particular data from a table
+
+
+PSEUDOCODE OF BUTTON SHOW -:
+	a. define varible and store index of row & col
+	b. we click a particular row and  enter a text 
+	c. the text we just type is stored another variable
+	d. use dataset 
+	e. use dataadapter to  establish connection between dataset and datatable
+        f. after that we add a for loop -:inside a loop
+		
+		. write SHOW query of sql and stored in mysqlcommand.commandText
+		. open a connection by sqlconnection.open()
+		.execute query by mysqlCommand.executeReader()
+		.and close reader and sqlconnection
+		.loop end 
+	        .We use datagridview.datasource to show data in datagridview
+		
+		
