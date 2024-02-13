@@ -1,0 +1,32 @@
+PSEUDOCODE OF PUSH BUTTON -:-
+
+.establish a connecton between database and vb.net
+.make a table on th database
+.read and write from the table
+
+	
+1. PUSH BUTTON -:-
+	.add a label and write Push button on text property
+	.add a button and write Press on text property and btnPUSH on Name property
+	.change color when  press 
+	. write code to change behavior.
+	. read and write  value in a table on the database .
+	. I add three column in the table
+			.serial no varchar -: mention only "on" or "off"
+			.write int -:
+			.read int -:
+
+some changes are done
+
+	. add one data in a table 
+	. Add query of sql for read and write.
+
+	. data fetch from table and data in our code 
+	. due to this we don't need to give input. it takes from table
+	. add query in the userControl form to fetch data from table
+	. through this the data stored in a table will be updated by clicking push button 
+	. we don't need to set value after debugging it will take data where we last debug this project
+
+	
+	
+			

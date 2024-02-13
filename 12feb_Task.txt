@@ -1,0 +1,53 @@
+I completed sql query from w3school.com
+
+some syntax of sql query are -:
+
+select syntax is used to display the data of the table
+
+create syntax is used to create table in the database.To create a table we used 
+ column_name, constraints, data type.
+
+constraints are - unique, not null, null, primary key, foreign key etc.
+data type are - int , varchar, boolean, long
+
+where clause - is used display particular data from the table of the database.
+
+order by - is used to display the data orderly.we use two keyword
+	Asc for Ascending order 
+	Desc for Descending order
+
+Having clause - is used to add aggregate function like, count, sum, avg etc
+
+comments - for single comments = '--'
+		for multline comments = '/*---------*\ '
+
+join is used to combine row from two or more tables, based on a related column between them.
+
+Types of join -:-
+	inner join - returns records that have matching value in both tables
+	outer join - return all the records of both tables either matched or not
+	left (innner)join -  return all the records of left table and matched 			record from the right table.
+	
+	right(outer)join - return all the records of right table and matched 			records from the left table.the records doesn't matched fill 			with null values.
+
+Group by - statement groups rows that have the same values into summary rows, 	like "find the number of customers in each country".
+	group by generally used with aggregate function like, max(),min(),count(),avg() to group the result-set by one or more column
+
+case syntax - are similar to if-else statement. if condition is true, then 	statement is executed. if condition is false else statement is executed.
+
+IN operator are allow you to specify multiply values in a where clause.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
