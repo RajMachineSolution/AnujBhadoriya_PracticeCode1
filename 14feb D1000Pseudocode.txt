@@ -1,0 +1,36 @@
+PSEUDOCODE -:
+	LABEL USERCONTROL
+		. I open usercontrol in vb.net
+		. add label1
+		. add property which is made by me
+			. i make two property first is Starting number startAt (to give initial value) and second is Consecutive number (to give end value)
+		. build Solution
+		.generate dll file label component
+		. attach with form of vb.net
+		.i also create a function 
+				.showDataInLabel() - in this function we use loop and inside the loop it stored  data in label.text 
+
+	 Component
+		. i add component in my project
+                . establish a connection with dataBase using methode like- sqlcommand,imports sqlClient,sqldataAdapter,sqldataset,sqldatatable,sqlconnection
+		.write a query in sqlcommand.commandText
+		.
+		.attach class component with Label Usercontrol
+	
+	Create Table in Database:
+		.create a Table name D1000 in database
+		.Add two column in table
+		.columns name are - serialno,D
+		.Add datatype in columns 
+
+	Use window form in my project
+		.attach dll file in toolbox 
+		. drag and drop on the form 
+		. debug the form 
+		. after debug it show the data of d column in table of the database show in label1
+
+	used timer
+		. we add timer on the form1
+		. set true in timer.enabled
+		. call function of ShowdataINLabel() so we can see the changes during runtime whatever changes done by me in table 
+		
