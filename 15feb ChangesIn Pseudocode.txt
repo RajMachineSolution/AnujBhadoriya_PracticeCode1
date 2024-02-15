@@ -1,0 +1,57 @@
+
+
+Some changes in 14Feb Label_User Control project
+
+	.Changes userControl to component class
+	.copy all the code in component class
+	.change the functionality of startAt property
+	.startAt property take exact value instead of index
+	.use if-else statement 
+	.startAt value is not in d column show else statment
+
+
+PSEUDOCODE - 
+
+1. In 14feb label_User control Project
+        .add a component class
+	.Copy all code in component class
+	.delete user_control1 from project
+
+2 Use of  startAt  property
+	.enter value in startAt which exist in D column of the d1000 table
+
+
+
+3 inside component2 class
+
+	.add a loop inside ShowDataInLabel(). 
+	.condition of loop is compare the StartAt value with Ddata 
+	.Ddata is variable array(500) int16 which stored all the data fetch from the col D of the table
+	.through loop we get index of startAt value
+	.use of  if-else statement 
+		.if data is found in table then execute if-statement
+		.if data is not found in table then execute else-statement
+		.inside else show a message "enter right data"
+
+
+
+ problem arise after copy the code in component data
+
+	.the value is not showing in label.text
+
+
+ 
+
+
+. hold 15feb_labelformComponent project
+. upload the project on github
+. no need to change functionality of StartAt
+. clear Understand difference between
+	.window form
+	.userControl form 
+        .component Class
+	.class
+
+
+	
+	
