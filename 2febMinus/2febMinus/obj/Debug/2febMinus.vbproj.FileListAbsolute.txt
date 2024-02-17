@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\2febMinus\2febMinus\bin\Debug\2febMinus.exe.config
+C:\Users\asus\source\repos\2febMinus\2febMinus\bin\Debug\2febMinus.exe
+C:\Users\asus\source\repos\2febMinus\2febMinus\bin\Debug\2febMinus.pdb
+C:\Users\asus\source\repos\2febMinus\2febMinus\bin\Debug\2febMinus.xml
+C:\Users\asus\source\repos\2febMinus\2febMinus\obj\Debug\_2febMinus.Form1.resources
+C:\Users\asus\source\repos\2febMinus\2febMinus\obj\Debug\_2febMinus.Resources.resources
+C:\Users\asus\source\repos\2febMinus\2febMinus\obj\Debug\2febMinus.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\2febMinus\2febMinus\obj\Debug\2febMinus.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\2febMinus\2febMinus\obj\Debug\2febMinus.exe
+C:\Users\asus\source\repos\2febMinus\2febMinus\obj\Debug\2febMinus.xml
+C:\Users\asus\source\repos\2febMinus\2febMinus\obj\Debug\2febMinus.pdb

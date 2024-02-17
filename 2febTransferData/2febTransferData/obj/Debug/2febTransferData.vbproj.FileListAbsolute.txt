@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\bin\Debug\2febTransferData.exe.config
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\bin\Debug\2febTransferData.exe
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\bin\Debug\2febTransferData.pdb
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\bin\Debug\2febTransferData.xml
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\obj\Debug\2febTransferData.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\obj\Debug\_2febTransferData.Form1.resources
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\obj\Debug\_2febTransferData.Resources.resources
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\obj\Debug\2febTransferData.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\obj\Debug\2febTransferData.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\obj\Debug\2febTransferData.exe
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\obj\Debug\2febTransferData.xml
+C:\Users\asus\source\repos\2febTransferData\2febTransferData\obj\Debug\2febTransferData.pdb
