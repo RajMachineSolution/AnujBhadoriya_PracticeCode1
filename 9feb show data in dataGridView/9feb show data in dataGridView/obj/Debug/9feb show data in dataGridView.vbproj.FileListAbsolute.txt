@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\bin\Debug\9feb show data in dataGridView.exe.config
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\bin\Debug\9feb show data in dataGridView.exe
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\bin\Debug\9feb show data in dataGridView.pdb
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\bin\Debug\9feb show data in dataGridView.xml
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\obj\Debug\_9feb_show_data_in_dataGridView.Form2.resources
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\obj\Debug\_9feb_show_data_in_dataGridView.Resources.resources
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\obj\Debug\9feb show data in dataGridView.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\obj\Debug\9feb show data in dataGridView.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\obj\Debug\9feb show data in dataGridView.exe
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\obj\Debug\9feb show data in dataGridView.xml
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\obj\Debug\9feb show data in dataGridView.pdb
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\obj\Debug\_9feb_show_data_in_dataGridView.Form1.resources
+C:\Users\asus\source\repos\9feb show data in dataGridView\9feb show data in dataGridView\obj\Debug\9feb show data in dataGridView.vbproj.AssemblyReference.cache
