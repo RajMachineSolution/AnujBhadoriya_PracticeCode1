@@ -1,0 +1,75 @@
+User constrol
+	.it is a vb.net class inherit from the framework user control class
+	.designable
+	. add in a toolbox
+	. dragged & dropped
+	. provides user interface
+	. can be treated  as built-in control
+window form
+	.it is a UI technology for .net
+	.it support a broad set of app development features including
+		.controls,graphics,data binding & user inputs
+
+	features - dragged and dropped visual designer in visual studio to easily create window form app
+
+component 
+	.a class that implement IComponent
+	.an object that is reusable, can  interact with other object provides control over external resources and design-time support
+	.designable
+	.don't provide user interface
+	.Features of component - added to the toolbox, drag and drop onto a form , manipulated on a design surface
+
+class - 
+	.A class in vb.net is a collection of various data members or object that shares similar attributes,behaviours and relationship to other members
+	.each object in vb is defined by class
+
+	
+**************************************************************************************
+in a meeting
+	.discussed and understand usercontrol and component class
+problem arise
+	.window form generate either dll file or not
+	.understand window control library
+
+
+*************************************************************************************
+
+yes window form  generate dll file
+
+Window control library 
+	.project template used to create custom control on window forms
+	.these control are reusable component that you can use in our window form application
+	.instead of creating directly within a window form app,create them in a control library
+	.once created, it can be used in other projects.
+
+********************************************************************************************
+
+Custom control & User control -:
+
+A custom control and a user control are two ways of creating reusable controls in windows forms applications. 
+The main difference is that a custom control inherits from a base control class and provides additional functionality 
+or appearance through code, while a user control is a composition of existing controls that can be designed in XAML.
+
+Some advantages of custom controls are:
+
+They offer more flexibility and customization options for creating new types of controls that do not exist in the framework.
+They can be used across multiple applications and projects.
+They have a simpler logical tree and less overhead than user controls.
+
+
+Some advantages of user controls are:
+
+They are easier to create and modify using the visual designer.
+They can leverage the existing functionality and appearance of the framework controls.
+They have more design-time support than custom controls.
+You should use custom controls when you need to extend the functionality or appearance of a control beyond what user controls can offer. You should use user controls when you want to combine existing controls into reusable building blocks.
+
+*************************************************************************************************************
+
+Difference between Window control library & window form Application
+
+A window control library is a collection of custom controls that can be reused in different windows forms applications. A custom control is a class that inherits from a base control class and provides additional functionality or appearance1.
+
+We create custom controls in windows forms applications when we need to customize the behavior or appearance of an existing control, or create a new type of control that does not exist in the framework2. For example, we might create a custom control that displays a progress bar and a percentage label, or a custom control that allows the user to select a color from a palette.
+
+Custom controls are more flexible and powerful than user controls, which are simply aggregations of other controls1. However, custom controls require more coding and testing, and do not have the same design-time support as user controls3. Therefore, we should use custom controls only when we need to extend the functionality or appearance of a control beyond what user controls can offer

@@ -1,0 +1,7 @@
+User constrol
+	.it is a vb.net class inherit from the framework user control class
+	.designable
+	. add in a toolbox
+	. dragged & dropped
+	. provides user interface
+	. can be treated  as built-in control
