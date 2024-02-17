@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\bin\Debug\6feb StringManipulation.exe.config
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\bin\Debug\6feb StringManipulation.exe
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\bin\Debug\6feb StringManipulation.pdb
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\bin\Debug\6feb StringManipulation.xml
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\obj\Debug\6feb StringManipulation.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\obj\Debug\_6feb_StringManipulation.Form1.resources
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\obj\Debug\_6feb_StringManipulation.Resources.resources
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\obj\Debug\6feb StringManipulation.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\obj\Debug\6feb StringManipulation.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\obj\Debug\6feb StringManipulation.exe
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\obj\Debug\6feb StringManipulation.xml
+C:\Users\asus\source\repos\6feb StringManipulation\6feb StringManipulation\obj\Debug\6feb StringManipulation.pdb

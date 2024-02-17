@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\bin\Debug\6feb TextFiles.exe.config
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\bin\Debug\6feb TextFiles.exe
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\bin\Debug\6feb TextFiles.pdb
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\bin\Debug\6feb TextFiles.xml
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\obj\Debug\6feb TextFiles.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\obj\Debug\_6feb_TextFiles.Form1.resources
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\obj\Debug\_6feb_TextFiles.Resources.resources
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\obj\Debug\6feb TextFiles.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\obj\Debug\6feb TextFiles.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\obj\Debug\6feb TextFiles.exe
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\obj\Debug\6feb TextFiles.xml
+C:\Users\asus\source\repos\6feb TextFiles\6feb TextFiles\obj\Debug\6feb TextFiles.pdb

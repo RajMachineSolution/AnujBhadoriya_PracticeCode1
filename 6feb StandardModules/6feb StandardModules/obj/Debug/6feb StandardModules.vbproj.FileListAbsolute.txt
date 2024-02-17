@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\bin\Debug\6feb StandardModules.exe.config
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\bin\Debug\6feb StandardModules.exe
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\bin\Debug\6feb StandardModules.pdb
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\bin\Debug\6feb StandardModules.xml
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\obj\Debug\6feb StandardModules.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\obj\Debug\_6feb_StandardModules.Form1.resources
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\obj\Debug\_6feb_StandardModules.Resources.resources
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\obj\Debug\6feb StandardModules.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\obj\Debug\6feb StandardModules.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\obj\Debug\6feb StandardModules.exe
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\obj\Debug\6feb StandardModules.xml
+C:\Users\asus\source\repos\6feb StandardModules\6feb StandardModules\obj\Debug\6feb StandardModules.pdb
