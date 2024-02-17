@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\obj\Debug\3feb Loop.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\obj\Debug\_3feb_Loop.Form1.resources
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\obj\Debug\_3feb_Loop.Resources.resources
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\obj\Debug\3feb Loop.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\obj\Debug\3feb Loop.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\bin\Debug\3feb Loop.exe.config
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\bin\Debug\3feb Loop.exe
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\bin\Debug\3feb Loop.pdb
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\bin\Debug\3feb Loop.xml
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\obj\Debug\3feb Loop.exe
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\obj\Debug\3feb Loop.xml
+C:\Users\asus\source\repos\3feb Loop\3feb Loop\obj\Debug\3feb Loop.pdb
