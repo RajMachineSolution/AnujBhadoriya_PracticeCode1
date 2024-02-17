@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\bin\Debug\7feb createYourOwnClass.exe.config
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\bin\Debug\7feb createYourOwnClass.exe
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\bin\Debug\7feb createYourOwnClass.pdb
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\bin\Debug\7feb createYourOwnClass.xml
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\obj\Debug\7feb createYourOwnClass.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\obj\Debug\_7feb_createYourOwnClass.Form1.resources
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\obj\Debug\_7feb_createYourOwnClass.Resources.resources
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\obj\Debug\7feb createYourOwnClass.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\obj\Debug\7feb createYourOwnClass.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\obj\Debug\7feb createYourOwnClass.exe
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\obj\Debug\7feb createYourOwnClass.xml
+C:\Users\asus\source\repos\7feb createYourOwnClass\7feb createYourOwnClass\obj\Debug\7feb createYourOwnClass.pdb

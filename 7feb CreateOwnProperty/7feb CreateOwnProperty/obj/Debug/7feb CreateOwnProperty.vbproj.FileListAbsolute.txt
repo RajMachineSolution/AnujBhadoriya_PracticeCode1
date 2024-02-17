@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\bin\Debug\7feb CreateOwnProperty.exe.config
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\bin\Debug\7feb CreateOwnProperty.exe
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\bin\Debug\7feb CreateOwnProperty.pdb
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\bin\Debug\7feb CreateOwnProperty.xml
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\obj\Debug\7feb CreateOwnProperty.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\obj\Debug\_7feb_CreateOwnProperty.Form1.resources
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\obj\Debug\_7feb_CreateOwnProperty.Resources.resources
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\obj\Debug\7feb CreateOwnProperty.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\obj\Debug\7feb CreateOwnProperty.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\obj\Debug\7feb CreateOwnProperty.exe
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\obj\Debug\7feb CreateOwnProperty.xml
+C:\Users\asus\source\repos\7feb CreateOwnProperty\7feb CreateOwnProperty\obj\Debug\7feb CreateOwnProperty.pdb

@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\bin\Debug\7feb anchor and docking.exe.config
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\bin\Debug\7feb anchor and docking.exe
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\bin\Debug\7feb anchor and docking.pdb
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\bin\Debug\7feb anchor and docking.xml
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\obj\Debug\_7feb_anchor_and_docking.Form1.resources
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\obj\Debug\_7feb_anchor_and_docking.Resources.resources
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\obj\Debug\7feb anchor and docking.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\obj\Debug\7feb anchor and docking.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\obj\Debug\7feb anchor and docking.exe
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\obj\Debug\7feb anchor and docking.xml
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\obj\Debug\7feb anchor and docking.pdb
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\obj\Debug\_7feb_anchor_and_docking.frmSecond.resources
+C:\Users\asus\source\repos\7feb anchor and docking\7feb anchor and docking\obj\Debug\7feb anchor and docking.vbproj.AssemblyReference.cache
