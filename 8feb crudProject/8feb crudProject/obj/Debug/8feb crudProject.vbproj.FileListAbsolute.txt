@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\bin\Debug\8feb crudProject.exe.config
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\bin\Debug\8feb crudProject.exe
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\bin\Debug\8feb crudProject.pdb
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\bin\Debug\8feb crudProject.xml
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\obj\Debug\8feb crudProject.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\obj\Debug\_8feb_crudProject.Form1.resources
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\obj\Debug\_8feb_crudProject.Resources.resources
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\obj\Debug\8feb crudProject.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\obj\Debug\8feb crudProject.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\obj\Debug\8feb crudProject.exe
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\obj\Debug\8feb crudProject.xml
+C:\Users\asus\source\repos\8feb crudProject\8feb crudProject\obj\Debug\8feb crudProject.pdb
