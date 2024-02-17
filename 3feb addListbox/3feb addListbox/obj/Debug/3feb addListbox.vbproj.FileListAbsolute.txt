@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\bin\Debug\3feb addListbox.exe.config
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\bin\Debug\3feb addListbox.exe
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\bin\Debug\3feb addListbox.pdb
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\bin\Debug\3feb addListbox.xml
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\obj\Debug\3feb addListbox.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\obj\Debug\_3feb_addListbox.Form1.resources
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\obj\Debug\_3feb_addListbox.Resources.resources
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\obj\Debug\3feb addListbox.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\obj\Debug\3feb addListbox.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\obj\Debug\3feb addListbox.exe
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\obj\Debug\3feb addListbox.xml
+C:\Users\asus\source\repos\3feb addListbox\3feb addListbox\obj\Debug\3feb addListbox.pdb
