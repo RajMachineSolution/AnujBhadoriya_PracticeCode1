@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\bin\Debug\7feb LoadEvent.exe.config
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\bin\Debug\7feb LoadEvent.exe
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\bin\Debug\7feb LoadEvent.pdb
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\bin\Debug\7feb LoadEvent.xml
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\obj\Debug\_7feb_LoadEvent.Form1.resources
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\obj\Debug\_7feb_LoadEvent.Resources.resources
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\obj\Debug\7feb LoadEvent.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\obj\Debug\7feb LoadEvent.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\obj\Debug\7feb LoadEvent.exe
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\obj\Debug\7feb LoadEvent.xml
+C:\Users\asus\source\repos\7feb LoadEvent\7feb LoadEvent\obj\Debug\7feb LoadEvent.pdb

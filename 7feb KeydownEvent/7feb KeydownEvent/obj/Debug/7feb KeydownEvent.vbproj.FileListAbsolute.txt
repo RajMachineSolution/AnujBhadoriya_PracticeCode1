@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\bin\Debug\7feb KeydownEvent.exe.config
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\bin\Debug\7feb KeydownEvent.exe
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\bin\Debug\7feb KeydownEvent.pdb
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\bin\Debug\7feb KeydownEvent.xml
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\obj\Debug\_7feb_KeydownEvent.Form1.resources
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\obj\Debug\_7feb_KeydownEvent.Resources.resources
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\obj\Debug\7feb KeydownEvent.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\obj\Debug\7feb KeydownEvent.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\obj\Debug\7feb KeydownEvent.exe
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\obj\Debug\7feb KeydownEvent.xml
+C:\Users\asus\source\repos\7feb KeydownEvent\7feb KeydownEvent\obj\Debug\7feb KeydownEvent.pdb
