@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "5feb tryBlock", "5feb tryBlock\5feb tryBlock.vbproj", "{CEBBB4E6-E2BE-44F8-B10D-B30FDDE2F63C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBBB4E6-E2BE-44F8-B10D-B30FDDE2F63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBBB4E6-E2BE-44F8-B10D-B30FDDE2F63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBBB4E6-E2BE-44F8-B10D-B30FDDE2F63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBBB4E6-E2BE-44F8-B10D-B30FDDE2F63C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7B7CD3D-D5AC-4E89-9645-C258F274B2F7}
+	EndGlobalSection
+EndGlobal

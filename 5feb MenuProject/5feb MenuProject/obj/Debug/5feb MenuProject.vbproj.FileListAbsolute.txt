@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\bin\Debug\5feb MenuProject.exe.config
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\bin\Debug\5feb MenuProject.exe
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\bin\Debug\5feb MenuProject.pdb
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\bin\Debug\5feb MenuProject.xml
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\obj\Debug\5feb MenuProject.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\obj\Debug\_5feb_MenuProject.Form1.resources
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\obj\Debug\_5feb_MenuProject.Resources.resources
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\obj\Debug\5feb MenuProject.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\obj\Debug\5feb MenuProject.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\obj\Debug\5feb MenuProject.exe
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\obj\Debug\5feb MenuProject.xml
+C:\Users\asus\source\repos\5feb MenuProject\5feb MenuProject\obj\Debug\5feb MenuProject.pdb

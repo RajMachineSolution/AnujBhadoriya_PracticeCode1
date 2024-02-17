@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\bin\Debug\5feb Checkbox.exe.config
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\bin\Debug\5feb Checkbox.exe
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\bin\Debug\5feb Checkbox.pdb
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\bin\Debug\5feb Checkbox.xml
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\obj\Debug\5feb Checkbox.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\obj\Debug\_5feb_Checkbox.Form1.resources
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\obj\Debug\_5feb_Checkbox.Resources.resources
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\obj\Debug\5feb Checkbox.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\obj\Debug\5feb Checkbox.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\obj\Debug\5feb Checkbox.exe
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\obj\Debug\5feb Checkbox.xml
+C:\Users\asus\source\repos\5feb Checkbox\5feb Checkbox\obj\Debug\5feb Checkbox.pdb

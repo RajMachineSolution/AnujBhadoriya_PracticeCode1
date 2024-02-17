@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\bin\Debug\5feb tryBlock.exe.config
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\bin\Debug\5feb tryBlock.exe
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\bin\Debug\5feb tryBlock.pdb
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\bin\Debug\5feb tryBlock.xml
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\obj\Debug\5feb tryBlock.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\obj\Debug\_5feb_tryBlock.Form1.resources
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\obj\Debug\_5feb_tryBlock.Resources.resources
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\obj\Debug\5feb tryBlock.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\obj\Debug\5feb tryBlock.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\obj\Debug\5feb tryBlock.exe
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\obj\Debug\5feb tryBlock.xml
+C:\Users\asus\source\repos\5feb tryBlock\5feb tryBlock\obj\Debug\5feb tryBlock.pdb
