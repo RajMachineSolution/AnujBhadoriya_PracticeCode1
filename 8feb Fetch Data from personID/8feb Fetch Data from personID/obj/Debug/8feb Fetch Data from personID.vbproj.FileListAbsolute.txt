@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\bin\Debug\8feb Fetch Data from personID.exe.config
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\bin\Debug\8feb Fetch Data from personID.exe
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\bin\Debug\8feb Fetch Data from personID.pdb
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\bin\Debug\8feb Fetch Data from personID.xml
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\obj\Debug\8feb Fetch Data from personID.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\obj\Debug\_8feb_Fetch_Data_from_personID.Form1.resources
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\obj\Debug\_8feb_Fetch_Data_from_personID.Resources.resources
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\obj\Debug\8feb Fetch Data from personID.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\obj\Debug\8feb Fetch Data from personID.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\obj\Debug\8feb Fetch Data from personID.exe
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\obj\Debug\8feb Fetch Data from personID.xml
+C:\Users\asus\source\repos\8feb Fetch Data from personID\8feb Fetch Data from personID\obj\Debug\8feb Fetch Data from personID.pdb

@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\bin\Debug\AddressBook.mdb
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\bin\Debug\8feb SQL DATA ACCESS.exe.config
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\bin\Debug\8feb SQL DATA ACCESS.exe
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\bin\Debug\8feb SQL DATA ACCESS.pdb
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\bin\Debug\8feb SQL DATA ACCESS.xml
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\obj\Debug\8feb SQL DATA ACCESS.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\obj\Debug\_8feb_SQL_DATA_ACCESS.Form1.resources
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\obj\Debug\_8feb_SQL_DATA_ACCESS.Resources.resources
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\obj\Debug\8feb SQL DATA ACCESS.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\obj\Debug\8feb SQL DATA ACCESS.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\obj\Debug\8feb SQL DATA ACCESS.exe
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\obj\Debug\8feb SQL DATA ACCESS.xml
+C:\Users\asus\source\repos\8feb SQL DATA ACCESS\8feb SQL DATA ACCESS\obj\Debug\8feb SQL DATA ACCESS.pdb
