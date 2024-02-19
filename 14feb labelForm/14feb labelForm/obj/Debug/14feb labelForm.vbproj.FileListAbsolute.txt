@@ -1,0 +1,20 @@
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\14feb labelForm.exe.config
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\14feb labelForm.exe
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\14feb labelForm.pdb
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\14feb labelForm.xml
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\13Feb Use_Of_PushButton.dll
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\14feb label_UserControl.dll
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\13Feb Use_Of_PushButton.pdb
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\13Feb Use_Of_PushButton.xml
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\13Feb Use_Of_PushButton.dll.config
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\14feb label_UserControl.pdb
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\bin\Debug\14feb label_UserControl.xml
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\obj\Debug\14feb labelForm.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\obj\Debug\_14feb_labelForm.Form1.resources
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\obj\Debug\_14feb_labelForm.Resources.resources
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\obj\Debug\14feb labelForm.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\obj\Debug\14feb labelForm.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\obj\Debug\14feb labelForm.vbproj.CopyComplete
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\obj\Debug\14feb labelForm.exe
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\obj\Debug\14feb labelForm.xml
+C:\Users\asus\source\repos\14feb labelForm\14feb labelForm\obj\Debug\14feb labelForm.pdb
