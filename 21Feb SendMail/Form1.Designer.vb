@@ -1,0 +1,161 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class Form1
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.btnShowData = New System.Windows.Forms.Button()
+        Me.TextBox2 = New System.Windows.Forms.TextBox()
+        Me.MonthCalendar1 = New System.Windows.Forms.MonthCalendar()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button3 = New System.Windows.Forms.Button()
+        Me.btnDateDifference = New System.Windows.Forms.Button()
+        Me.btnSendMail = New System.Windows.Forms.Button()
+        Me.DataGridView1 = New System.Windows.Forms.DataGridView()
+        Me.checkBoxcol = New System.Windows.Forms.DataGridViewCheckBoxColumn()
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.SuspendLayout()
+        '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(316, 139)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(131, 37)
+        Me.Button1.TabIndex = 0
+        Me.Button1.Text = "Button1"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'TextBox1
+        '
+        Me.TextBox1.Location = New System.Drawing.Point(325, 99)
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox1.TabIndex = 1
+        '
+        'btnShowData
+        '
+        Me.btnShowData.Location = New System.Drawing.Point(139, 146)
+        Me.btnShowData.Name = "btnShowData"
+        Me.btnShowData.Size = New System.Drawing.Size(75, 23)
+        Me.btnShowData.TabIndex = 2
+        Me.btnShowData.Text = "show Data"
+        Me.btnShowData.UseVisualStyleBackColor = True
+        '
+        'TextBox2
+        '
+        Me.TextBox2.Location = New System.Drawing.Point(56, 46)
+        Me.TextBox2.Name = "TextBox2"
+        Me.TextBox2.Size = New System.Drawing.Size(100, 20)
+        Me.TextBox2.TabIndex = 3
+        '
+        'MonthCalendar1
+        '
+        Me.MonthCalendar1.Location = New System.Drawing.Point(491, 14)
+        Me.MonthCalendar1.Name = "MonthCalendar1"
+        Me.MonthCalendar1.TabIndex = 4
+        '
+        'Button2
+        '
+        Me.Button2.Location = New System.Drawing.Point(149, 200)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.TabIndex = 5
+        Me.Button2.Text = "save Date"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(258, 200)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.TabIndex = 6
+        Me.Button3.Text = "save Time"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
+        'btnDateDifference
+        '
+        Me.btnDateDifference.Location = New System.Drawing.Point(372, 200)
+        Me.btnDateDifference.Name = "btnDateDifference"
+        Me.btnDateDifference.Size = New System.Drawing.Size(75, 23)
+        Me.btnDateDifference.TabIndex = 7
+        Me.btnDateDifference.Text = "DateDifference"
+        Me.btnDateDifference.UseVisualStyleBackColor = True
+        '
+        'btnSendMail
+        '
+        Me.btnSendMail.Location = New System.Drawing.Point(472, 200)
+        Me.btnSendMail.Name = "btnSendMail"
+        Me.btnSendMail.Size = New System.Drawing.Size(75, 23)
+        Me.btnSendMail.TabIndex = 8
+        Me.btnSendMail.Text = "Send Mail"
+        Me.btnSendMail.UseVisualStyleBackColor = True
+        '
+        'DataGridView1
+        '
+        Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.DataGridView1.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.checkBoxcol})
+        Me.DataGridView1.Location = New System.Drawing.Point(408, 229)
+        Me.DataGridView1.Name = "DataGridView1"
+        Me.DataGridView1.Size = New System.Drawing.Size(240, 150)
+        Me.DataGridView1.TabIndex = 9
+        '
+        'checkBoxcol
+        '
+        Me.checkBoxcol.HeaderText = "Column1"
+        Me.checkBoxcol.Name = "checkBoxcol"
+        '
+        'Form1
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.DataGridView1)
+        Me.Controls.Add(Me.btnSendMail)
+        Me.Controls.Add(Me.btnDateDifference)
+        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.MonthCalendar1)
+        Me.Controls.Add(Me.TextBox2)
+        Me.Controls.Add(Me.btnShowData)
+        Me.Controls.Add(Me.TextBox1)
+        Me.Controls.Add(Me.Button1)
+        Me.Name = "Form1"
+        Me.Text = "Form1"
+        CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+
+    Friend WithEvents Button1 As Button
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents btnShowData As Button
+    Friend WithEvents TextBox2 As TextBox
+    Friend WithEvents MonthCalendar1 As MonthCalendar
+    Friend WithEvents Button2 As Button
+    Friend WithEvents Button3 As Button
+    Friend WithEvents btnDateDifference As Button
+    Friend WithEvents btnSendMail As Button
+    Friend WithEvents DataGridView1 As DataGridView
+    Friend WithEvents checkBoxcol As DataGridViewCheckBoxColumn
+End Class

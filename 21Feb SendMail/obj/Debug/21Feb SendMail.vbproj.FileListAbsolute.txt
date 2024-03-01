@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\bin\Debug\21Feb SendMail.exe.config
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\bin\Debug\21Feb SendMail.exe
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\bin\Debug\21Feb SendMail.pdb
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\bin\Debug\21Feb SendMail.xml
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\obj\Debug\21Feb SendMail.vbproj.AssemblyReference.cache
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\obj\Debug\_21Feb_SendMail.Form1.resources
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\obj\Debug\_21Feb_SendMail.Resources.resources
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\obj\Debug\21Feb SendMail.vbproj.GenerateResource.cache
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\obj\Debug\21Feb SendMail.vbproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\obj\Debug\21Feb SendMail.exe
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\obj\Debug\21Feb SendMail.xml
+C:\Users\asus\source\repos\21Feb SendMail\21Feb SendMail\obj\Debug\21Feb SendMail.pdb
